@@ -1,0 +1,11 @@
+D:\GITHUB\Course_work\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+D:\GITHUB\Course_work\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+D:\GITHUB\Course_work\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.Main_Form.resources
+D:\GITHUB\Course_work\Курсовая\Курсовая\obj\Debug\Курсовая.Organize_files.resources
